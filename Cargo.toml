@@ -3,6 +3,10 @@ name = "singleton-manager"
 version = "0.1.0"
 authors = ["Anders Blenstrup-Pedersen <abp-git@ryuu.technology>"]
 edition = "2018"
+description = "A programatical singleton manager"
+readme = "README.md"
+categories = ["data-structures", "Singleton"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
