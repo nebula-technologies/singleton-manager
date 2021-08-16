@@ -1,6 +1,6 @@
 [package]
 name = "singleton-manager"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Anders Blenstrup-Pedersen <abp-git@ryuu.technology>"]
 edition = "2018"
 description = "A programatical singleton manager"
