@@ -174,3 +174,7 @@ fn main() {
     assert_eq!("My Message".to_string(), different_service.get());
 }
 ```
+
+## Contributions/Issues
+Contributions are currently not opened as this is running from a private server.
+Issues can be opened at any time with a guest account on gitlab.nebula.technology.
