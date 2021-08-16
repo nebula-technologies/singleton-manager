@@ -5,7 +5,7 @@ authors = ["Anders Blenstrup-Pedersen <abp-git@ryuu.technology>"]
 edition = "2018"
 description = "A programatical singleton manager"
 readme = "README.md"
-categories = ["data-structures", "Singleton"]
+categories = ["memory-management", "rust-patterns"]
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
